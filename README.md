@@ -2320,7 +2320,10 @@ Github地址：https://github.com/inmite
 1. Chet Haase  
 Android framework UI team 成员  
 主页：http://graphics-geek.blogspot.com/
+<<<<<<< HEAD
 >>>>>>> Update README.md
+=======
+>>>>>>> f9f269837da978d71747d73f33ce0f63f34155b0
 
 2. Lucas Rocha  
 來自Facebook

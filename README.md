@@ -1832,10 +1832,13 @@ Github地址：https://github.com/inmite
 #### 三、博客  
 1. Chet Haase  
 Android framework UI team 成员  
-主页：http://graphics-geek.blogspot.com/  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+主页：http://graphics-geek.blogspot.com/
 
-## License
+2. Lucas Rocha  
+來自Facebook
+代表作：twowayview, smoothie, dspec, probe  
+主页：http://lucasr.org/
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
     Copyright 2014 trinea.cn
 
